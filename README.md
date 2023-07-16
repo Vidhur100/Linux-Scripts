@@ -1,10 +1,10 @@
 # Linux-Scripts
 This repository provides a set of guidelines and configuration files to help you secure your Linux Ubuntu operating system. By following the recommendations and implementing the suggested configurations, you can enhance the security of your Ubuntu installation and protect it from common threats.
 
-#Introduction
+# Introduction
 Securing your Ubuntu operating system is essential to protect your system, data, and privacy. This repository aims to provide a comprehensive set of guidelines and best practices for securing an Ubuntu installation. It covers various aspects, including system updates, user management, network security, secure remote access, and more.
 
-#Getting Started
+# Getting Started
 To get started with securing your Ubuntu OS, please follow these steps:
 
 Clone or download this repository to your Ubuntu machine.
